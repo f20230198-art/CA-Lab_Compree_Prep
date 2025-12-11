@@ -121,5 +121,25 @@ After going through this repository, you'll be able to:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+**f20230198-art**
+- GitHub: [@f20230198-art](https://github.com/f20230198-art)
+- Repository: [CA-Lab_Compree_Prep](https://github.com/f20230198-art/CA-Lab_Compree_Prep)
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repository and use it for your exam preparation. If you find any errors or have improvements, contributions are welcome!
+
+---
+
 > Created for Computer Architecture Lab Exam Preparation  
 > All materials organized and ready for efficient study
