@@ -1,6 +1,12 @@
 # 🖥️ Computer Architecture Lab - Exam Preparation Guide
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/f20230198-art/CA-Lab_Compree_Prep)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 > **Complete study material for CA Lab exam preparation (Labs 1-9 + PYQ Solutions)**
+> 
+> **📖 Free and Open Source** - Available to everyone for learning and sharing!
 
 ---
 
@@ -121,5 +127,30 @@ After going through this repository, you'll be able to:
 
 ---
 
+## 🤝 Contributing
+
+This is an **open source** project and contributions are welcome! 
+
+- Found an error? Open an issue!
+- Have improvements? Submit a pull request!
+- Want to add more content? Check out [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Everyone is welcome to use, share, and improve this resource.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**This means you can:**
+- ✅ Use this material for learning
+- ✅ Share it with your classmates
+- ✅ Modify and improve it
+- ✅ Use it for any purpose, commercial or non-commercial
+
+---
+
 > Created for Computer Architecture Lab Exam Preparation  
-> All materials organized and ready for efficient study
+> All materials organized and ready for efficient study  
+> Made with ❤️ for students, by students
